@@ -1,4 +1,4 @@
-package primer_ejercicio;
+package segundo_ejercicio;
 
 public class Telefono implements Dispositivo {
     @Override
