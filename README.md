@@ -12,4 +12,4 @@ notificar se debia hacer al mismo tiempo a todos los
 dispositivos del cliente. Por tanto era necesario esta solucion con ese patron.
 
 
-![ejercicio2.png](..%2F..%2F..%2F..%2F..%2F..%2F..%2FDownloads%2Fejercicio2.png)
+![ejercicio2.png](src/ejercicio2.png)
