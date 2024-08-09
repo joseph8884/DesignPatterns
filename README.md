@@ -35,6 +35,16 @@ Para el tercer caso utilizamos **Template Method**, este ejercicio nos pedia una
 
 ---
 
+### Cuarto punto
+
+En el ejercicio 4, el reto era crear un sistema de gestion, CRUD y registro de tareas. Se uso **Command** el cual permite volver solicitudes en objetos independientes, permitiendo realizar diferentes operaciones.
+
+**Solucion: Command**
+
+![Ejercicio4 drawio](https://github.com/user-attachments/assets/4ca8e552-902e-4438-95f4-c59daf8caa3c)
+
+---
+
 ### Quinto punto
 
 Para el quinto caso utulizamos el patron estructural **Decorator**, el problema que teniamos era tener adiciones a las habitaciones de un hotel de manera dinamica, flexible y ademas que el codigo sea legible. Este patron estructural nos ayudo a crear un decorador que nos permite componer el objeto con diferentes combinaciones.
