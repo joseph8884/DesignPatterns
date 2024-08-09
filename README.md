@@ -3,9 +3,9 @@
 
 **Autores:**
 
-- José Guzmán
-- Abril
-- Bryam
+- Héctor Jose Guzmán Montaño
+- Juan David Abril Castillo
+- Bryam Steven Diaz Garcia
 
 ---
 
@@ -24,3 +24,17 @@ En el segundo caso, fue necesario utilizar un patrón de diseño **Observer**, c
 ![ejercicio2.png](src%2Fejercicio2.png)
 
 ---
+
+### Tercer punto
+
+**Solucion: Template Method**
+
+![image](https://github.com/user-attachments/assets/7f7ed6f9-5007-40ce-a3e8-bad2ad89345a)
+
+---
+
+### Quinto punto
+
+**Solucion: Decorator**
+
+![image](https://github.com/user-attachments/assets/6018e09b-ee21-47a4-87be-b872a63153f4)
