@@ -27,14 +27,19 @@ En el segundo caso, fue necesario utilizar un patrón de diseño **Observer**, c
 
 ### Tercer punto
 
+Para el tercer caso utilizamos **Template Method**, este ejercicio nos pedia una estructura comun para el procesamiento de ordenes e implementar pasos especificos para cada subclase, este patron nos permite definir un esqueleto en la superclase y que las subclases sobreescriban pasos de la superclase sin modificar su estructura.
+
 **Solucion: Template Method**
 
-![image](https://github.com/user-attachments/assets/7f7ed6f9-5007-40ce-a3e8-bad2ad89345a)
+![image](https://github.com/user-attachments/assets/ab8850b9-0924-404b-a34f-5eabba22876d)
 
 ---
 
 ### Quinto punto
 
+Para el quinto caso utulizamos el patron estructural **Decorator**, el problema que teniamos era tener adiciones a las habitaciones de un hotel de manera dinamica, flexible y ademas que el codigo sea legible. Este patron estructural nos ayudo a crear un decorador que nos permite componer el objeto con diferentes combinaciones.
+
 **Solucion: Decorator**
 
-![image](https://github.com/user-attachments/assets/6018e09b-ee21-47a4-87be-b872a63153f4)
+![image](https://github.com/user-attachments/assets/a4ef1c74-7ff7-49b4-9496-28f4083daa1f)
+
